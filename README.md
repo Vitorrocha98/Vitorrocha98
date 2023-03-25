@@ -15,8 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<a href="https://github.com/vitorrocha98/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true&hide=stars,prs,issues&theme=dark#gh-dark-mode-only" />
+</a>
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrocha98&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<a href="https://github.com/vitorrocha98/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrocha98&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+</picture>
