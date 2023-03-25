@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/vitorrocha98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true&hide=stars,prs,issues&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/vitorrocha98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrocha98&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<!--
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=vitorrocha98&show_icons=true&theme=dark"
@@ -42,3 +49,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrocha98&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 </picture>
+-->
